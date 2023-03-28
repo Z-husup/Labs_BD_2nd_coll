@@ -1,4 +1,4 @@
---“–»√√≈–€
+--√í√ê√à√É√É√Ö√ê√õ
 
 USE bd_lab;
 
@@ -22,7 +22,7 @@ END;
 GO
 CREATE TRIGGER UnchangedWorker
 ON Worker
-INSTEAD OF INSERT, UPDATE
+BEFORE INSERT, UPDATE
 AS
 BEGIN
     SELECT *
