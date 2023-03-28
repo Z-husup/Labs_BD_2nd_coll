@@ -1,6 +1,6 @@
-# Labs_BD_2nd_coll
+# AKYLBEK UULU ZHUSUP AIN-2-21
 labs 10-11-12-13
-AKYLBEK UULU ZHUSUP AIN-2-21
+
 
 Tables.sql
 Просто создание таблиц
